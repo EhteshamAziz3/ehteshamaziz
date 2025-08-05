@@ -10,4 +10,4 @@
 
 📜 Google Certified | Open to roles in UAE / GCC  
 📫 Contact: xxehteshamxx@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/ehtesham-aziz8789)
+🔗 [LinkedIn](www.linkedin.com/in/ehtesham-aziz-287405239)

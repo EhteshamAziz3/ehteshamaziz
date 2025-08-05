@@ -1,6 +1,6 @@
  Hi, I'm Ehtesham Aziz 👋
 
-🎯 Aspiring Data Analyst with hands-on experience in:
+🎯 Entry Level Data Analystwith hands-on experience in:
 
 - 📊 Power BI Dashboards  
 - 🐍 Python (Pandas, NumPy, Matplotlib)  
